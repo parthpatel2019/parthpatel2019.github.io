@@ -11,7 +11,7 @@
 
 **My Major:** **I am majoring in _Computer Science_**
 
-I quote that I stick by when programming:
+A quote that I stick by when programming:
 
 > "Nothing is impossible, the word itself says 'I'm possible'!" - By Audrey Hepburn
 
