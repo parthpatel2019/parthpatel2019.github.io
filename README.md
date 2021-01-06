@@ -47,8 +47,7 @@ Here are a few of my top ranked programming languages!
 2. I love to travel and explore new places while tasting new food
   - I have been to over 6 countries and hope to visit more once it is safe to do so
 3. My love for music
-  - I can play over 5 instruments
-     - My top two are the piano and the guitar
+  - I can play over 5 instruments and my top two are the piano and the guitar
   - I love to DJ and produce music as well
   
 ## Things I wish to achieve in the future
