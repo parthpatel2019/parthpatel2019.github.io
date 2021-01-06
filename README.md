@@ -48,7 +48,7 @@ Here are a few of my top ranked programming languages!
   - I have been to over 6 countries and hope to visit more once it is safe to do so
 3. My love for music
   - I can play over 5 instruments
-    - My top two are the piano and the guitar
+     - My top two are the piano and the guitar
   - I love to DJ and produce music as well
   
 ## Things I wish to achieve in the future
