@@ -2,7 +2,7 @@
 ## Who I am?
 
 
-![Image](https://drive.google.com/file/d/1nleOwsmECveuD3EwrzNQ6-kgcnswvKki/view)
+![Image](IMG_5167.JPG)
 **My Name is Parth Patel**
 
 *I am a second Year Undergraduate Student*
@@ -46,6 +46,8 @@ Here are a few of my top ranked programming languages!
   - I love to play the piano and the guitar
 2. I love to play sports
   - I love to play football and basketball and watch soccer and hockey
+3. I love to travel and explore new places while tasting new food!
+  - I have been to over 6 countries and hope to visit more once it is safe to do so!
   
 ## Things I wish to achieve in the future
 
@@ -59,15 +61,5 @@ Here are a few of my top ranked programming languages!
 
 I have a demonstration of some of my projects I have built on my [website portfolio](https://p7patel.wixsite.com/parthpatel) 
 
-
-
-LINKS
-
-
-## Misc. Info
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/parthpatel2019/parthpatel2019.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-You can use the [editor on GitHub](https://github.com/parthpatel2019/parthpatel2019.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My GitHub Page here
+You can find my GitHub [here](https://github.com/parthpatel2019/parthpatel2019.github.io).
